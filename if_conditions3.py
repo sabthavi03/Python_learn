@@ -1,4 +1,5 @@
 
+#Current bill calculator
 
 n=int(input("Enter the number of units consumed:"))
 
@@ -14,4 +15,5 @@ if n>0:
 
 else:
     print("Invalid Input")
+
     
